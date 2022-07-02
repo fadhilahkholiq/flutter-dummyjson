@@ -1,16 +1,23 @@
-# tokocak
 
-A new Flutter project.
+# Fetch DummyJSON API with Flutter
 
-## Getting Started
+This repository contains the source code of TOKOCAK, an example of getting data from the DummyJSON API to display in an application using Flutter. To display product lists and details like e-commerce.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Demo
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Here is a demo of the application.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+![Logo](https://raw.githubusercontent.com/fadhilahkholiq/flutter-dummyjson/main/1.png)
+
+![Logo](https://raw.githubusercontent.com/fadhilahkholiq/flutter-dummyjson/main/2.png)
+
+
+
+## Authors
+
+- Kholiq Fadhilah/19.0504.0021
+- [@0xKHFA](https://twitter.com/0xKHFA) (Twitter)
+- [Kholiq Fadhilah](https://www.facebook.com/Danurwenda.JFla) (Facebook)
+
