@@ -1,7 +1,5 @@
 
-# Fetch DummyJSON API with Flutter
-
-This repository contains the source code of TOKOCAK, an example of getting data from the DummyJSON API to display in an application using Flutter. To display product lists and details like e-commerce.
+A simple application created with Flutter to display data from DummyJSON.
 
 
 ## Demo
